@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Employee Management System
 
 ## Overview
@@ -113,3 +114,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 Thank you for using the Employee Management System!
+=======
+# -Employee-management-system
+This project is an Employee Management System built with a React frontend. It includes features to add, delete, update, and list employees. The project is structured to facilitate easy management and integration of additional features.
+>>>>>>> 1f90d18888c1101434ddbad19ec7e7ba262728e6
